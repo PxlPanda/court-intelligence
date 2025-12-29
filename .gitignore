@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Виртуальное окружение
+venv/
+.env
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Конфигурации IDE
+.vscode/
+.idea/
+
+# База данных
+*.sqlite
+*.db
+
+# Папки с данными
+database/csv/
+database/*.sqlite
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# Файлы Kaggle API
+.kaggle/kaggle.json
